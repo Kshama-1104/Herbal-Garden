@@ -1,5 +1,5 @@
 # AROGYAVERSE
-# 🌐 **Host Link:** [arogyaverse](https://arogyaverse-six.vercel.app/)
+# 🌐 **Host Link:** [arogyaverse](https://herbal-garden-kappa.vercel.app/)
 ## Tech Stack
 
 - Vite + React + TypeScript + Tailwind + shadcn-ui
